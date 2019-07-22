@@ -1,0 +1,12 @@
+#Utilize o § para obter a cores.
+#Entre nesse site para obter as cores: minecraft.tools/en/color-code.php
+#O tempo está em segundos, então se deseja 1 minuto coloque 60 segundos ...
+
+Config:
+  Nome: §cPao
+  Lore: §aPaozinho
+  Tempo: 10
+  Quantidade: 16
+  Mensagem: §2Voce acaba de coletar 16 paes!
+  Entrar: §8§l[§a+§8§l] §f
+  Sair: §8§l[§c-§8§l] §f

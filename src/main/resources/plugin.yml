@@ -1,0 +1,8 @@
+name: mComidas
+main: me.MComidas.MComidas
+version: 1.0
+author: Morrice
+description: Plugin para cumprir desafios.
+commands:
+  pao:
+  comidas:
